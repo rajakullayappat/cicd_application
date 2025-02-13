@@ -8,7 +8,7 @@ def hello_world():
 <html>
 <body>
 <center>
-<h1>Demo on GitOps with ArgoCD and Github Actions.</h1> <br>
+<h1>Deployment of Application using GitOps with ArgoCD and Github Actions.</h1> <br>
 <br>
 <img src="hhttps://github.com/rajakullayappat/cicd_application/blob/main/itsworking.jpeg?raw=true">
 </center>
